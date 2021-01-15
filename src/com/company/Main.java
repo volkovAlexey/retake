@@ -9,5 +9,7 @@ public class Main {
 
         List list = new ArrayList();
         list.add("Ivan");
+        list.add("Kolia");
+        list.add(2);
     }
 }
