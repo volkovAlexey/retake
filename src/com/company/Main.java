@@ -7,7 +7,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-        List list = new ArrayList();
-        list.add("Ivan");
+        List<String> names = new ArrayList();
+        names.add("Ivan");
+        names.add("Oleg");
+        names.add("Dasha");
+        names.add("Max");
     }
 }
