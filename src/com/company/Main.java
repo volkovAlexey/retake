@@ -7,9 +7,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        List list = new ArrayList();
-        list.add("Ivan");
-        list.add("Kolia");
-        list.add(2);
+        List<String> names = new ArrayList();
+        names.add("Ivan");
+        names.add("Oleg");
+        names.add("Dasha");
+        names.add("Max");
+        names.add("Kolia");
     }
 }
